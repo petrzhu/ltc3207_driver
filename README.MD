@@ -27,7 +27,7 @@ can do this by creating an instance of the structure ltc3207_dev. Then go on to
 fill in the various parameters as shown below.
 
 
-#### Example for I2C
+#### Example code
 ``` c
 struct ltc3207_dev sensor;
 
